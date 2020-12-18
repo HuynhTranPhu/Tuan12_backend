@@ -1,0 +1,5 @@
+node_modules
+#file image
+files
+package-lock.json
+.env
